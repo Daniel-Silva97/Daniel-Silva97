@@ -1,8 +1,51 @@
-### Hi there :wave::smile:
+<h1 align="center" ><b>Bem vindo ao perfil do Daniel</b> 😃✌️</h1>
 
-- :technologist: I’m currently working at GZ Sistemas
-- :books: I’m currently learning Python, JavaScript, CSS, HTML, SQL
-- :email: How to reach me: [Daniel Silva - GitHub](https://github.com/Daniel-Silva97)
-- :link:  Linkedin: [Daniel Silva](https://www.linkedin.com/in/danielspedro/)
+
+<p align="center"><b>Trabalho atualmente como Analista de sistemas 🧐, com o objetivo de migrar para Desenvolvedor</b> 🖥️</p>
+
+
+</br>
+
+
+<div align="center">
+        <a href="https://github.com/Daniel-Silva97">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Silva97&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Silva97&layout=compact&langs_count=7&theme=react"></a>
+</div>
+
+
+</br>
+
+
+<h3 align="center"><b>Linguagens e Tecnologias</b></h3>
+
+<div style="display: inline_block" align="center"><br>
+        <img align="center" alt="Dani-Python" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290317-84bf5f44-09ab-4ade-a62b-98cfd921c57c.svg">
+        <img align="center" alt="Dani-Selenium" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290148-870ab7ea-be71-4ab4-8c81-797d7d0b31e8.svg">
+        <img align="center" alt="Dani-Jupyter" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160288042-63fef620-419a-49a9-8358-1a5f5f0e1289.svg">
+        <!--<img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+        <img align="center" alt=Dani-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img align="center" alt="Dani-Java" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160287932-05167deb-93cc-42dc-9515-3373c6f21358.svg">
+        <img align="center" alt="Dani-DigitalOcean" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160289939-de6a45a3-9f94-4b1b-b885-7387a61a6fa9.svg">
+        <img align="center" alt="Dani-Jira" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160289970-0436a5a8-b488-4de3-b83e-c015a611cc2d.svg">
+        <img align="center" alt="Dani-Linux" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290053-b5240661-36f8-47ba-84c1-95956d91124d.svg">
+        <img align="center" alt="Dani-MySql" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290099-6aceb691-9680-4087-9efe-4a8e75c66387.svg">
+        
+        
+</div>
+
+
+</br>
+
+
+<h3 align="center"><b>Redes Sociais</b></h3>
+<div align="center"> 
+        <a href = "mailto:danielsp699@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/danielspedro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        <a href="https://github.com/Daniel-Silva97" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+</div>
+
 
 
