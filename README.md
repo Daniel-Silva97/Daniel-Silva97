@@ -23,7 +23,7 @@
         <img align="center" title="Python" alt="Dani-Python" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290317-84bf5f44-09ab-4ade-a62b-98cfd921c57c.svg">
         <img align="center" title="Selenium" alt="Dani-Selenium" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290148-870ab7ea-be71-4ab4-8c81-797d7d0b31e8.svg">
         <img align="center" title="Jupyter" alt="Dani-Jupyter" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160288042-63fef620-419a-49a9-8358-1a5f5f0e1289.svg">
-        <!--<img align="center" title="JavaScript" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+        <img align="center" title="JavaScript" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" title="TypeScript" alt=Dani-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
         <img align="center" title="HTML" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" title="CSS" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
