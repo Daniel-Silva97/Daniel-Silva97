@@ -20,20 +20,19 @@
 <h3 align="center"><b>Linguagens e Tecnologias</b></h3>
 
 <div style="display: inline_block" align="center"><br>
-        <img align="center" alt="Dani-Python" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290317-84bf5f44-09ab-4ade-a62b-98cfd921c57c.svg">
-        <img align="center" alt="Dani-Selenium" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290148-870ab7ea-be71-4ab4-8c81-797d7d0b31e8.svg">
-        <img align="center" alt="Dani-Jupyter" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160288042-63fef620-419a-49a9-8358-1a5f5f0e1289.svg">
-        <!--<img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
-        <img align="center" alt=Dani-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-        <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img align="center" alt="Dani-Java" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160287932-05167deb-93cc-42dc-9515-3373c6f21358.svg">
-        <img align="center" alt="Dani-DigitalOcean" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160289939-de6a45a3-9f94-4b1b-b885-7387a61a6fa9.svg">
-        <img align="center" alt="Dani-Jira" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160289970-0436a5a8-b488-4de3-b83e-c015a611cc2d.svg">
-        <img align="center" alt="Dani-Linux" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290053-b5240661-36f8-47ba-84c1-95956d91124d.svg">
-        <img align="center" alt="Dani-MySql" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290099-6aceb691-9680-4087-9efe-4a8e75c66387.svg">
-        
-        
+        <img align="center" title="Python" alt="Dani-Python" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290317-84bf5f44-09ab-4ade-a62b-98cfd921c57c.svg">
+        <img align="center" title="Selenium" alt="Dani-Selenium" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290148-870ab7ea-be71-4ab4-8c81-797d7d0b31e8.svg">
+        <img align="center" title="Jupyter" alt="Dani-Jupyter" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160288042-63fef620-419a-49a9-8358-1a5f5f0e1289.svg">
+        <!--<img align="center" title="JavaScript" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+        <img align="center" title="TypeScript" alt=Dani-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        <img align="center" title="HTML" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" title="CSS" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img align="center" title="Java" alt="Dani-Java" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160287932-05167deb-93cc-42dc-9515-3373c6f21358.svg">
+        <img align="center" title="Digital Ocean" alt="Dani-DigitalOcean" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290582-00fc6fac-be6c-4220-97df-480cf7c698d0.svg">
+        <img align="center" title="Jira" alt="Dani-Jira" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290624-aef51350-f4c0-428a-a026-b0683526afcb.svg">
+        <img align="center" title="Linux" alt="Dani-Linux" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290053-b5240661-36f8-47ba-84c1-95956d91124d.svg">
+        <img align="center" title="MySQL" alt="Dani-MySql" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290652-647b4424-e4a8-404a-bde3-d945edb6a79c.svg">
+        <img align="center" title="Jenkins" alt="Dani-Jenkins" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290804-5d2bc719-b085-4208-a369-94b5a4d18ae1.svg">             
 </div>
 
 
@@ -46,6 +45,9 @@
         <a href="https://www.linkedin.com/in/danielspedro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         <a href="https://github.com/Daniel-Silva97" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>
+
+
+<!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) --->
 
 
 
