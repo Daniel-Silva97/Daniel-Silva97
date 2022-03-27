@@ -47,7 +47,10 @@
 </div>
 
 
-<!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) --->
+</br>
+
+![Snake animation](https://github.com/Daniel-Silva97/Daniel-Silva97/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
