@@ -32,8 +32,10 @@
         <img align="center" title="Jira" alt="Dani-Jira" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290624-aef51350-f4c0-428a-a026-b0683526afcb.svg">
         <img align="center" title="Linux" alt="Dani-Linux" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290053-b5240661-36f8-47ba-84c1-95956d91124d.svg">
         <img align="center" title="MySQL" alt="Dani-MySql" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290652-647b4424-e4a8-404a-bde3-d945edb6a79c.svg">
-        <img align="center" title="Jenkins" alt="Dani-Jenkins" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290804-5d2bc719-b085-4208-a369-94b5a4d18ae1.svg">             
+        <img align="center" title="Jenkins" alt="Dani-Jenkins" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290804-5d2bc719-b085-4208-a369-94b5a4d18ae1.svg"> 
+        <img align="center" title="SonarCloud" alt="Dani-SonarCloud" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160928855-76e3c2f4-f6cb-4f48-8bf4-1729a350c75f.svg">          
 </div>
+
 
 
 </br>
@@ -41,7 +43,8 @@
 
 <h3 align="center"><b>Redes Sociais</b></h3>
 <div align="center">
-        <a href="https://wa.me/5511963826283" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>           
+        <a href="https://wa.me/5511963826283" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-![Uploading sonarqube.svg…]()
+badge&logo=whatsapp&logoColor=white"></a>           
         <a href = "mailto:danielsp699@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/danielspedro/" {target="_blank"}><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
         <a href="https://github.com/Daniel-Silva97" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
