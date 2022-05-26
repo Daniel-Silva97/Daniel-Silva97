@@ -33,12 +33,14 @@
         <img align="center" title="Linux" alt="Dani-Linux" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290053-b5240661-36f8-47ba-84c1-95956d91124d.svg">
         <img align="center" title="MySQL" alt="Dani-MySql" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290652-647b4424-e4a8-404a-bde3-d945edb6a79c.svg">
         <img align="center" title="Jenkins" alt="Dani-Jenkins" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160290804-5d2bc719-b085-4208-a369-94b5a4d18ae1.svg"> 
-        <img align="center" title="SonarCloud" alt="Dani-SonarCloud" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160928855-76e3c2f4-f6cb-4f48-8bf4-1729a350c75f.svg">          
+        <img align="center" title="SonarCloud" alt="Dani-SonarCloud" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/160928855-76e3c2f4-f6cb-4f48-8bf4-1729a350c75f.svg">
+        <img align="center" title="Docker" alt="Dani-Docker" height="30" width="40" src="https://user-images.githubusercontent.com/83096774/170579377-76947736-7943-4361-986d-39a6670f1260.svg">      
 </div>
 
 
 
 </br>
+
 
 
 <h3 align="center"><b>Redes Sociais</b></h3>
