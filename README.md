@@ -1,7 +1,7 @@
 <h1 align="center" ><b>Bem vindo ao perfil do Daniel</b> 😃✌️</h1>
 
 
-<p align="center"><b>Trabalho atualmente como Analista de sistemas 🧐, com o objetivo de migrar para Desenvolvedor</b> 🖥️</p>
+<p align="center"><b>Trabalho atualmente como Analista QA 🖥️</p>
 
 
 </br>
